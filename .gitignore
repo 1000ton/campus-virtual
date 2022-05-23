@@ -1,0 +1,5 @@
+### Vert.x ###
+.vertx/
+.mvn
+.idea
+target
